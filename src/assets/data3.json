@@ -1,0 +1,32 @@
+{
+  "Z": [
+    {
+      "key": "Sun",
+      "value": "0"
+    },
+    {
+      "key": "Mon",
+      "value": "13"
+    },
+    {
+      "key": "Tue",
+      "value": "19"
+    },
+    {
+      "key": "Wed",
+      "value": "45"
+    },
+    {
+      "key": "Thu",
+      "value": "79"
+    },
+    {
+      "key": "Fri",
+      "value": "37"
+    },
+    {
+      "key": "Sat",
+      "value": "22"
+    }
+  ]
+}

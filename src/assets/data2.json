@@ -1,0 +1,33 @@
+{
+  "Y":[
+    {
+      "key": "Sun",
+      "value": "3"
+    },
+    {
+      "key": "Mon",
+      "value": "30"
+    },
+    {
+      "key": "Tue",
+      "value": "26"
+    },
+    {
+      "key": "Wed",
+      "value": "49"
+    },
+    {
+      "key": "Thu",
+      "value": "69"
+    },
+    {
+      "key": "Fri",
+      "value": "12"
+    },
+    {
+      "key": "Sat",
+      "value": "23"
+    }
+  ]
+  
+}
